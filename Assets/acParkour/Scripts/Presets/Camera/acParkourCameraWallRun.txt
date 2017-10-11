@@ -1,0 +1,10 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPCamera
+PositionOffset 0 1.65 0.5
+BobRate 1.2 2.2 1.6 1.2
+BobAmplitude 1.5 -2 0 -2.48
+BobInputVelocityScale 0.2
+BobRequireGroundContact false

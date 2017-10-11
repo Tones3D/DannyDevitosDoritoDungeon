@@ -1,0 +1,17 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType ac_FPCameraEX
+PositionOffset 0 0.95 0.1
+RotationKneeling 0
+RotationStrafeRoll -0.02
+ShakeSpeed 0.05
+ShakeAmplitude 10 50 0
+BobRate 0.5 1 0.5 0.5
+BobAmplitude 5 4 15 -40
+BobMaxInputVelocity 5.5
+RotationSpringStiffness 0.3
+RotationSpringDamping 0.7
+PositionSpringStiffness 0.3
+PositionSpringDamping 0.7

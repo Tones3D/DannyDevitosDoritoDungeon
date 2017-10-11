@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: d16d768664bb073419b7242d59bfb530
+timeCreated: 1470053573
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ExportedModel:BrickSmallBrown0204_2_S.jpg
+    100004: ExportedModel:brownwoodwindow.jpg
+    100006: ExportedModel:RooftilesCeramic0066_11_S.jpg
+    100008: ExportedModel:WindowsHouseOld0058_S.jpg
+    400000: //RootNode
+    400002: ExportedModel:BrickSmallBrown0204_2_S.jpg
+    400004: ExportedModel:brownwoodwindow.jpg
+    400006: ExportedModel:RooftilesCeramic0066_11_S.jpg
+    400008: ExportedModel:WindowsHouseOld0058_S.jpg
+    2300000: ExportedModel:BrickSmallBrown0204_2_S.jpg
+    2300002: ExportedModel:brownwoodwindow.jpg
+    2300004: ExportedModel:RooftilesCeramic0066_11_S.jpg
+    2300006: ExportedModel:WindowsHouseOld0058_S.jpg
+    3300000: ExportedModel:BrickSmallBrown0204_2_S.jpg
+    3300002: ExportedModel:brownwoodwindow.jpg
+    3300004: ExportedModel:RooftilesCeramic0066_11_S.jpg
+    3300006: ExportedModel:WindowsHouseOld0058_S.jpg
+    4300000: ExportedModel:BrickSmallBrown0204_2_S.jpg
+    4300002: ExportedModel:WindowsHouseOld0058_S.jpg
+    4300004: ExportedModel:brownwoodwindow.jpg
+    4300006: ExportedModel:RooftilesCeramic0066_11_S.jpg
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType ac_FPParkour
+ParkourArmPos 0 0 0
+DashCooldown 0.1
+MotorDashForce 0.5
+DashCount 0
+DashRecoverSpeed 2.5
+DashSensitivtiy 0.25
+WallJumpForwardForce 0
+WallJumpForce 0
+WallJumpUpForce 0
+WallHangDuration 0
+LosingGripStart 0
+LosingGripGravity 0
+DoubleJumpForwardForce 0.15
+DoubleJumpForce 0.4
+DoubleJumpCount 0
+MotorGroundSlideForce 0
+MinBuildUp 0.5
+MinSpeedToBuildup 6
+GroundSlideSpeedMinimum 2
+GroundSlideCooldown 1.5
+WallRunGravity 0.08
+WallRunTilt 0.4
+WallRunDuration 0
+WallRunUpForce 0.2
+WallRunSpeedMinimum 8
+WallRunAgainTimeout 0.1
+WallRunRange 0
+WallRunDismountForce 0.12
+WallRunInfinite False
+WallRunAutoRotateYaw False
+IgnoreLedgeGrabTag NOTLedgeGrabable
+ClimbPositionOffset 0 0 0
+PullUpSpeed 0.08
+MinDistanceToVault 1
+MinDistanceToClimb 3
+DistancePlayerToTop 0
+LedgeGrabRange 1.5
+LedgeGrabDuration 0.2
+ClimbAlignDuration 0.2
+ClimbDismountForce 0.02

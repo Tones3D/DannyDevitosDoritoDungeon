@@ -1,0 +1,33 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPCamera
+RenderingFieldOfView 60
+RenderingZoomDamping 0.2
+Position3rdPersonOffset 0 -0.17 -1.5
+PositionOffset 0 1.5 0
+PositionGroundLimit 0.1
+PositionSpringStiffness 0.01
+PositionSpringDamping 0.25
+PositionSpring2Stiffness 0.95
+PositionSpring2Damping 0.25
+PositionKneeling 0.01
+PositionKneelingSoftness 1
+PositionEarthQuakeFactor 1
+RotationPitchLimit 86 -86
+RotationYawLimit -360 360
+RotationSpringStiffness 0.01
+RotationSpringDamping 0.25
+RotationKneeling 0.025
+RotationKneelingSoftness 1
+RotationStrafeRoll 0.01
+RotationEarthQuakeFactor 0
+ShakeSpeed 0
+ShakeAmplitude 10 10 0
+BobRate 0 1.4 0 0.7
+BobAmplitude 0 0.25 0 0.5
+BobInputVelocityScale 1
+BobMaxInputVelocity 100
+BobRequireGroundContact True
+BobStepThreshold 10
